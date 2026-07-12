@@ -1,0 +1,23 @@
+:root{
+
+--primary:#1B5E20;
+--secondary:#2E7D32;
+--accent:#66BB6A;
+--light:#F5F7F6;
+--dark:#1A1A1A;
+--white:#FFFFFF;
+
+}
+body{
+
+font-family:'Inter',sans-serif;
+background:#fff;
+color:#333;
+
+}
+
+h1,h2,h3,h4{
+
+font-family:'Playfair Display',serif;
+
+}
